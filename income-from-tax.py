@@ -1,4 +1,4 @@
-# Simple Python Income calculator, Based on inpoutted tax
+# Simple Python Income calculator, Based on inpoutted tax to practise simple math with python
 
 tax = input("Enter your income tax:")
 
